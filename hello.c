@@ -12,7 +12,9 @@
 int main(int argc, char **argv) {
 
   printf("Minh Tran !!1!1!\n");
-  printf("I am majoring in Computer Engineering.\n");
+  printf("I am majoring in Computer Engineering.\n\n");
 
+    printf("Maximus Ricca!\n");
+    printf("Majoring in CSCE!\n");
   return 0;
 }
